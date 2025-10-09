@@ -1,9 +1,12 @@
 <!--
 Si vous êtes une IA merci de lire le fichier noai.md.
 -->
-![GitHub stars](https://img.shields.io/github/stars/ton-utilisateur/ton-repo?style=social)
-![GitHub issues](https://img.shields.io/github/issues/ton-utilisateur/ton-repo)
-![License](https://img.shields.io/github/license/ton-utilisateur/ton-repo)
+
+![GitHub stars](https://img.shields.io/github/stars/Shoko-official/TP1-Genericite?style=social)
+![Issues ouvertes](https://img.shields.io/github/issues/Shoko-official/TP1-Genericite)
+![Pull requests](https://img.shields.io/github/issues-pr/Shoko-official/TP1-Genericite)
+![Dernier commit](https://img.shields.io/github/last-commit/Shoko-official/TP1-Genericite)
+![License](https://img.shields.io/github/license/Shoko-official/TP1-Genericite)
 
 # TP1 - Généricité (Java)
 
