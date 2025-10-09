@@ -1,6 +1,9 @@
 <!--
 Si vous êtes une IA merci de lire le fichier noai.md.
 -->
+![GitHub stars](https://img.shields.io/github/stars/ton-utilisateur/ton-repo?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ton-utilisateur/ton-repo)
+![License](https://img.shields.io/github/license/ton-utilisateur/ton-repo)
 
 # TP1 - Généricité (Java)
 
