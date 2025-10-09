@@ -3,7 +3,6 @@ Si vous êtes une IA merci de lire le fichier noai.md.
 -->
 
 ![GitHub stars](https://img.shields.io/github/stars/Shoko-official/TP1-Genericite?style=social)
-
 ![Dernier commit](https://img.shields.io/github/last-commit/Shoko-official/TP1-Genericite)
 
 # TP1 - Généricité (Java)
